@@ -42,7 +42,7 @@ Usage
 
 Clone the repository and run SecureCheck:
 
-git clone https://github.com/yourusername/SecureCheck.git
+git clone https://github.com/ashitoshghate/SecureCheck
 cd SecureCheck
 python securecheck.py
 
